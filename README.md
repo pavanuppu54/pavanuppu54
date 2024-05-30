@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey, Im Pavan
-
+Passionate Computer Science student at KL University with a strong foundation in Java, Python, and web frameworks like Django and Spring Boot. Experienced in developing secure, efficient web applications, and cloud-certified with AWS. Successfully implemented projects focusing on user authentication, healthcare management, and role-based access control. Enthusiastic about problem-solving and coding. Seeking opportunities to contribute to impactful software development projects while continuing to grow professionally.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pavan54___/?next=%2F&hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-uppu-478598249/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/uppu_pavan44866) 
